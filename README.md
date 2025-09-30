@@ -29,7 +29,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="websocket" width="40" height="40"/> </a> 
-<a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/json-web-token.png" alt="jwt" width="40" height="40"/> </a>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="jwt"/> 
 </p>
 
 **Frontend:**
@@ -43,7 +43,7 @@
 
 **Others / Tools:**
 <p align="left"> 
-<a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1687559249/press-kit/brand-guidelines/cloudinary_icon_blue.png" alt="cloudinary" width="40" height="40"/> </a> 
+<img src="https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white" alt="cloudinary"/>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
