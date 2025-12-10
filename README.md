@@ -1,7 +1,7 @@
 <h3 align="center">Full Stack Developer | Backend Proficient | Node.js | Express | MongoDB</h3>
 
 - 👨‍💻 I’m passionate about **building scalable web applications**, with a strong focus on backend systems and databases.  
-- 👯 I’m looking to collaborate on **full stack projects** and contribute to **open-source backend tools.**  
+- 🚀 I’m looking to collaborate on **full stack projects** and contribute to **open-source backend tools.**  
 - 🤝 I’m open to learning and working on **performance optimization, real-time systems, and API integrations.**  
 - 💬 Ask me about **Node.js, Express, MongoDB, Redis, WebSockets, REST APIs, and Authentication (JWT & RBAC).**  
 - 📫 Reach me at **rishabhm869@gmail.com**  
